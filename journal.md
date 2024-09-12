@@ -9,4 +9,5 @@ Ambient light detects light between 30000 and 100000 lux. If the ambient light s
 
 # September 10, 2024
 
-Fanum Tax
+For me: when i commit changes do i keep it as update . journal . md or do i change it back to journal . md 
+For you: I understood it well just confused at the end
