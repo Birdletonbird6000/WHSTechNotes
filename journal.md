@@ -11,3 +11,7 @@ Ambient light detects light between 30000 and 100000 lux. If the ambient light s
 
 For me: when i commit changes do i keep it as update . journal . md or do i change it back to journal . md 
 For you: I understood it well just confused at the end
+
+# September 17, 2024
+
+This is a free week.
