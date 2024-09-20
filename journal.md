@@ -15,3 +15,7 @@ For you: I understood it well just confused at the end
 # September 17, 2024
 
 This is a free week.
+
+# September 20, 2024 
+
+the game i played was pac man zero
