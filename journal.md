@@ -23,3 +23,7 @@ the game i played was pac man zero
 # September 27, 2024
 
 Precision when coding is important since you could misplace or incorrectly type a line of code. One small mistake could cause all of your code to not work, or work incorrectly. It's good to pay attention early in coding in your coding journey to see which accidental mistakes you commonly make, so you learn to stop making those mistakes.
+
+# October 2, 2024
+
+Computer science is important in learning as advances in computer science have allowed for good applications and technology to make it easier to teach. My life would be different without the advances of computer science as it could make specific things easier or harder to learn. Also i like to play games so they would be like less advanced.
