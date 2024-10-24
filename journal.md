@@ -1,4 +1,4 @@
-# August 27, 2024
+0.123/# August 27, 2024
 
 Today, I created my first GitHub account and repository. I'm excited to start using GitHub for my projects!
 
@@ -31,3 +31,7 @@ Computer science is important in learning as advances in computer science have a
 # October 15, 2024
 
 Coding can help improve problem sovling skills by helping you understand to break down your problems into smaller steps, as it's harder to work on it all at once. Understanding coding can be important in industries that aren't directly related to using technology such as healthcare, finance, and education as you might need to know how to use programs or technological devices in order to work. Computer science can enhance creativity and collaboration by giving people more oppurtunites and the ability to be creative.
+
+# October 24, 2024
+
+AI can sometimes be good in updgrading industries, by automating processes, or making those processes easier. It can do processes like help in transportation. For example, AI can give us tips during specific situations while driving, for example, trains don't require much manually dedicated movement, as the path for it would already be created; instead AI could manage the speed of the trains and the amount of time it is like that. There are times AI could do some damage to industries. For example, AI often makes mistakes, and during important situations like automatically diagnosing someone. AI could also get some information wrong, which is why learning solely from AI is not a good idea. 
