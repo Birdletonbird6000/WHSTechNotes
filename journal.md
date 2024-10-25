@@ -28,6 +28,10 @@ Precision when coding is important since you could misplace or incorrectly type 
 
 Computer science is important in learning as advances in computer science have allowed for good applications and technology to make it easier to teach. My life would be different without the advances of computer science as it could make specific things easier or harder to learn. Also i like to play games so they would be like less advanced.
 
+# October 7, 2024
+
+The job I researched was computer programmer. Computer programmers test, write, and modify codes to create instructions allowing computer software and applications to function. To become it is important to know at least two of the following programming languages: SQL, Java, C++, or Python. You also need at least a bachelor's degree in computer science, software engineering, or a related field. In this career, you can become a computer system analyst, a software developer, or a Database Administrator. This job aligns with my goals because I want to learn more coding or maybe be a software developer.
+
 # October 15, 2024
 
 Coding can help improve problem sovling skills by helping you understand to break down your problems into smaller steps, as it's harder to work on it all at once. Understanding coding can be important in industries that aren't directly related to using technology such as healthcare, finance, and education as you might need to know how to use programs or technological devices in order to work. Computer science can enhance creativity and collaboration by giving people more oppurtunites and the ability to be creative.
