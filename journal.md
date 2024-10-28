@@ -42,4 +42,4 @@ AI can sometimes be good in updgrading industries, by automating processes, or m
 
 # October 28, 2024
 
-Technology can influence elections using social media, where people post their opinions, and keep people up to date with new information. This can be good or bad as some people can lie about what is happening at the time, but can 
+Technology can influence elections using social media, where people post their opinions, and keep people up to date with new information. This can sometimes be bad as some people can lie to get people to vote differently and change their opinions. It can also be good as it is keeping people up to date about what happens. For example, it can show who would be winning the election, and the difference in votes between the canditates.
