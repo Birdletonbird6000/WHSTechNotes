@@ -1,4 +1,4 @@
-0.123/# August 27, 2024
+# August 27, 2024
 
 Today, I created my first GitHub account and repository. I'm excited to start using GitHub for my projects!
 
@@ -39,3 +39,7 @@ Coding can help improve problem sovling skills by helping you understand to brea
 # October 24, 2024
 
 AI can sometimes be good in updgrading industries, by automating processes, or making those processes easier. It can do processes like help in transportation. For example, AI can give us tips during specific situations while driving, for example, trains don't require much manually dedicated movement, as the path for it would already be created; instead AI could manage the speed of the trains and the amount of time it is like that. There are times AI could do some damage to industries. For example, AI often makes mistakes, and during important situations like automatically diagnosing someone. AI could also get some information wrong, which is why learning solely from AI is not a good idea. 
+
+# October 28, 2024
+
+Technology can influence elections using social media, where people post their opinions, and keep people up to date with new information. This can be good or bad as some people can lie about what is happening at the time, but can 
