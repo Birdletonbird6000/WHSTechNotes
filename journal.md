@@ -43,3 +43,7 @@ AI can sometimes be good in updgrading industries, by automating processes, or m
 # October 28, 2024
 
 Technology can influence elections using social media, where people post their opinions, and keep people up to date with new information. This can sometimes be bad as some people can lie to get people to vote differently and change their opinions. It can also be good as it is keeping people up to date about what happens. For example, it can show who would be winning the election, and the difference in votes between the canditates.
+
+# November 4, 2024
+
+It is important to keep personal and sensitive information online, because sometimes you can get hacked or do research and find even more information about you. To keep your information safe, make difficult passwords to guess and write them down to not forget them. Also if you feel something is wrong with your account, you might want to reset your password often. One time when I accidently revealed too much information was when I was younger, I put my full name as my username but I deleted the account when I realized that it was a mistake. Don't ever share your password or too much personal information online.
