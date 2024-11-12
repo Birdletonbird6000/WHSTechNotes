@@ -47,3 +47,7 @@ Technology can influence elections using social media, where people post their o
 # November 4, 2024
 
 It is important to keep personal and sensitive information online, because sometimes you can get hacked or do research and find even more information about you. To keep your information safe, make difficult passwords to guess and write them down to not forget them. Also if you feel something is wrong with your account, you might want to reset your password often. One time when I accidently revealed too much information was when I was younger, I put my full name as my username but I deleted the account when I realized that it was a mistake. Don't ever share your password or too much personal information online.
+
+# November 12, 2024
+
+An event that has happened is the election which will cause a large difference within the country. This does create changes that affect us all, as for the next few years, it is said that prices of products will change, and new laws may be created. This event can relate to our class, as we have been talking about problem-solving, just like how the new president will have to solve the problems of our country. | Advancements in technology plays a role in this important event, as it is constantly being used to distribute information. People have already used technology to state their opinions. Others have also tried to influence peoples' votes, hoping that it would help the side that their on win. Technology will continue to constantly contribute to these events in the future for more elections and other events like this. 
