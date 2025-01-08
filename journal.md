@@ -67,3 +67,7 @@ To me, brainrot is content that harms people in some way, damaging mental health
 # December 16, 2024
 
 I am looking foward to winter break so I don't have to wake up early and spend 8 hours at school.
+
+# January 8, 2025
+
+I liked the journal entries. I want to learn more coding and get better. But i dont know about pursuing any certifications yet.
