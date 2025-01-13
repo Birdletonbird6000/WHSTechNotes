@@ -71,3 +71,7 @@ I am looking foward to winter break so I don't have to wake up early and spend 8
 # January 8, 2025
 
 I liked the journal entries. I want to learn more coding and get better. But i dont know about pursuing any certifications yet.
+
+# January 13, 2025 
+
+I think the switch from traditiional tech jobs to AI can have some good or bad changes. I think AI tools will enchance oppurtunities since they do not take as long to learn skills and would have really good memory after being developed for at least a certain amount of time. To prepare for a career in a fast-changing market, you could try to work a job that is hard to replace.
