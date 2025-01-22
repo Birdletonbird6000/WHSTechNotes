@@ -75,3 +75,7 @@ I liked the journal entries. I want to learn more coding and get better. But i d
 # January 13, 2025 
 
 I think the switch from traditiional tech jobs to AI can have some good or bad changes. I think AI tools will enchance oppurtunities since they do not take as long to learn skills and would have really good memory after being developed for at least a certain amount of time. To prepare for a career in a fast-changing market, you could try to work a job that is hard to replace.
+
+# January 22, 2025
+
+Government invtervention in technology can help regulate privacy and security. Too strict rules may negatively effect users or the amount of users. Tiktok could strengthen data security or explain how user data is collected and stored. If i worked at tiktok i would add a feature to show what kind of data is being collected to the user. The lesson you could learn would be to make sure you know what you are agreeing to.        This topic can relate to some of the jobs we talked about. Especially the types of jobs that create apps, or jobs that help or protect stored data.
