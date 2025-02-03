@@ -79,3 +79,7 @@ I think the switch from traditiional tech jobs to AI can have some good or bad c
 # January 22, 2025
 
 Government invtervention in technology can help regulate privacy and security. Too strict rules may negatively effect users or the amount of users. Tiktok could strengthen data security or explain how user data is collected and stored. If i worked at tiktok i would add a feature to show what kind of data is being collected to the user. The lesson you could learn would be to make sure you know what you are agreeing to.        This topic can relate to some of the jobs we talked about. Especially the types of jobs that create apps, or jobs that help or protect stored data.
+
+# February 3, 2025
+  Technology has made aviation much safer. One improvement is air traffic control systems, which help planes and pilots talk to eachother. This allows people to know exactly where other planes are and allows them to avoid crashing into eachother. 
+  AI can also make flying easier. They help pilots make smart choices when there is a issue. Relying too much on computers can be bad though because glitches or errors would be very dangerous. But technology could also help by describing issues in case a part of a plane might be breaking down and it would help people fix it. It is important to be careful with this kind of technology though because anyone trying to hack any airplane systems could cause a very big issue with communication during a flight or anything like that.
