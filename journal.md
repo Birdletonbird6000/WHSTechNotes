@@ -83,3 +83,12 @@ Government invtervention in technology can help regulate privacy and security. T
 # February 3, 2025
   Technology has made aviation much safer. One improvement is air traffic control systems, which help planes and pilots talk to eachother. This allows people to know exactly where other planes are and allows them to avoid crashing into eachother. 
   AI can also make flying easier. They help pilots make smart choices when there is a issue. Relying too much on computers can be bad though because glitches or errors would be very dangerous. But technology could also help by describing issues in case a part of a plane might be breaking down and it would help people fix it. It is important to be careful with this kind of technology though because anyone trying to hack any airplane systems could cause a very big issue with communication during a flight or anything like that.
+
+# February 11, 2025
+| Shape    | Color | Count |
+| -------- | ----- | ----- |
+| Circle   |Green  |   7   |
+| Square   |Yellow |   5   |
+| Hexagon  |Brown  |   6   |
+| Triangle |Purple |   4   |
+| Octagon  |Red    |   3   |
