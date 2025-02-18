@@ -92,3 +92,6 @@ Government invtervention in technology can help regulate privacy and security. T
 | Hexagon  |Brown  |   6   |
 | Triangle |Purple |   4   |
 | Octagon  |Red    |   3   |
+
+# February 18, 2025
+I learned about the partition of India in world geography. It is the division of British India into two independent states. It created different areas for people based on religion.
