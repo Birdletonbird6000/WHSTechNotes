@@ -95,3 +95,7 @@ Government invtervention in technology can help regulate privacy and security. T
 
 # February 18, 2025
 I learned about the partition of India in world geography. It is the division of British India into two independent states. It created different areas for people based on religion.
+
+# February 24, 2025
+Technology can help people stay up to date with slang by asking other people online what it means, or just guessing what it means based off the rest of the text. Potential benefits of new slang makes it easier to talk or type faster and more efficiently, but some challenges may be that some people may not understand what some of the slang means. 
+I think it is best to stay informal since it allows everyone to understand. I think the misunderstanding of new slang may impact interactions of adults and youth because some adults may find it uncessary and not bother to remember what some things mean, but youth might just use it anyways. 
