@@ -99,3 +99,6 @@ I learned about the partition of India in world geography. It is the division of
 # February 24, 2025
 Technology can help people stay up to date with slang by asking other people online what it means, or just guessing what it means based off the rest of the text. Potential benefits of new slang makes it easier to talk or type faster and more efficiently, but some challenges may be that some people may not understand what some of the slang means. 
 I think it is best to stay informal since it allows everyone to understand. I think the misunderstanding of new slang may impact interactions of adults and youth because some adults may find it uncessary and not bother to remember what some things mean, but youth might just use it anyways. 
+
+# March 3, 2025
+I think the classes on friday made it pretty easy for the substitute. I don't remember him getting upset or asking us to quiet down, so I think he didn't really have any problems with us. It was also a pretty easy job, since there was no assignment, and all he had to do was just watch us and not have to work or teach us anything. I think if we could go back we should have just been a little more quiet.
