@@ -102,3 +102,6 @@ I think it is best to stay informal since it allows everyone to understand. I th
 
 # March 3, 2025
 I think the classes on friday made it pretty easy for the substitute. I don't remember him getting upset or asking us to quiet down, so I think he didn't really have any problems with us. It was also a pretty easy job, since there was no assignment, and all he had to do was just watch us and not have to work or teach us anything. I think if we could go back we should have just been a little more quiet. also if ayden is yappig abt me dont believe him bc he is js trying to make his journal entry longer]['
+
+# March 17, 2025
+The technology I used the most over the break was apps and games, and these are the most commonly used forms of technology. This entertained me because I was able to watch videos and play games and challenged me when I tested for a rank in  a game. | You can connect this technology to our classroom, as we use things such as apps and games for our assignments. They also require problem solving and knowledge of app functionality.
