@@ -108,3 +108,6 @@ The technology I used the most over the break was apps and games, and these are 
 
 # March 18, 2025
 I played ts Click A Cookie game.
+
+# March 24, 2025
+Technology has improved the tournaments. However, predicting the winners does take part off the fun away, like the unexpectedness and intensity during each game.      Social Media and streaming has changed how we watch. It allows us to watch the games online with friends and allows us to watch them anywhere. This makes March Madness feel more connected and fun.
