@@ -109,5 +109,8 @@ The technology I used the most over the break was apps and games, and these are 
 # March 18, 2025
 I played ts Click A Cookie game.
 
+# March 31, 2025
+Currently i am ok and now worried about anything. The most stressful part about school is chemistry because its the hardest subject for me. Some things you can do to take care of yourself is sleep or spend some time alone. One goal I have for the rest of the school year is to get 90+ average in every class. No I don't have anyone to talk to when feeling overwhelmed so being by myself usually helps.
+
 # March 24, 2025
 Technology has improved the tournaments. However, predicting the winners does take part off the fun away, like the unexpectedness and intensity during each game.      Social Media and streaming has changed how we watch. It allows us to watch the games online with friends and allows us to watch them anywhere. This makes March Madness feel more connected and fun.
