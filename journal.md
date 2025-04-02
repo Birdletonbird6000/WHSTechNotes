@@ -114,3 +114,6 @@ Currently i am ok and now worried about anything. The most stressful part about 
 
 # March 24, 2025
 Technology has improved the tournaments. However, predicting the winners does take part off the fun away, like the unexpectedness and intensity during each game.      Social Media and streaming has changed how we watch. It allows us to watch the games online with friends and allows us to watch them anywhere. This makes March Madness feel more connected and fun.
+
+# April 4, 2025
+I played flappy code today
