@@ -117,3 +117,6 @@ Technology has improved the tournaments. However, predicting the winners does ta
 
 # April 2, 2025
 I played flappy code today
+
+# April 7, 2025
+I think an AI tutor could be the most useful for helping you to remember something. Even though the facts it provides are not always correct, it could remind you of specific strategies you used to do, but you since you've done it before, you'd know if it was right or wrong. AI can help you study by providing information and gives you the ability to learn more about a certain part, or summarize something a certain way. For example, asking an AI to summarize a topic in one paragraph is way easier to remember than an entire article. I would probably use it because I find it difficult to remember information recieved from many different sources.
