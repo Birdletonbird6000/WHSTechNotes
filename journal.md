@@ -123,3 +123,9 @@ I think an AI tutor could be the most useful for helping you to remember somethi
 
 # April 14, 2025
 I think that although cell phone bans could cause safety concerns, it would overall help the students with learning. Banning phones would cause a very significant amount of less distractions, and allows for more focus on school work. This could cause changes in student behavior, because students would find other ways to solve their bordeom. This would most likely cause more chatting between students, more people to get out of their seats, or just make people stay on their chromebooks for more time. It may cause safety concerns, as if there was a safety concerns, students may not be able to call for help. If this was implemented in my school, I would be so bored and probably just sneak it ngl.
+
+# April 28, 2025
+| Name   | Flavor    | Occasion       | Price     |            
+| Sally  | Chocolate | Graduation     |$35.00|
+| Michael| Vanilla   | Farewell Party |$37.00|
+| Emma   | Carrot    | Birthday       |$39.00|
