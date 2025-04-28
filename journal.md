@@ -130,3 +130,12 @@ I think that although cell phone bans could cause safety concerns, it would over
 | Sally  | Chocolate | Graduation     |$35.00|
 | Michael| Vanilla   | Farewell Party |$37.00|
 | Emma   | Carrot    | Birthday       |$39.00|
+
+
+| Shape    | Color | Count |
+| -------- | ----- | ----- |
+| Circle   |Green  |   7   |
+| Square   |Yellow |   5   |
+| Hexagon  |Brown  |   6   |
+| Triangle |Purple |   4   |
+| Octagon  |Red    |   3   |
