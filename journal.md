@@ -132,7 +132,7 @@ I think that although cell phone bans could cause safety concerns, it would over
 | Emma   | Carrot    | Birthday       |$39.00|
 
 
-| Shape    | Color | Count |
+| Name    | Flavor | Occasiion | Price
 | -------- | ----- | ----- |
 | Circle   |Green  |   7   |
 | Square   |Yellow |   5   |
