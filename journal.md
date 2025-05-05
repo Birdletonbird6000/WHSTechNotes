@@ -131,3 +131,6 @@ I think that although cell phone bans could cause safety concerns, it would over
 | Michael| Vanilla   | Farewell Party |$37.00|
 | Emma   | Carrot    | Birthday       |$39.00|
 idk why it not working pls forgive 😔
+
+# May 5, 2025
+The 100 people would win. Eventually the gorilla would get tired. Even if the people were unarmed and untrained they would still win if they worked together. If they went one at a time they would probably lose. Some people would probably die or get broken bones or other bad injuries but they would win. I think its not irresponsible to make this kind of challenge go viral because it is just kind of a joke people talk about. Because there are many people agreeing and disagreeing with eachother, people are learning that it would actually be close and to not underestimate or overestimate human ability. This shows that anything could go viral online because it is a random idea and it first went viral in 2022 but is gaining popularity again.
