@@ -137,3 +137,6 @@ The 100 people would win. Eventually the gorilla would get tired. Even if the pe
 
 # May 12, 2025
 This trend is not ethical and is bad because it has already led to thousands of dollars wasted. For schools to encourage students not to do this trend, they should charge extra so that people won't want to do it. It is our responsibility to take care of it because they trust us and we will have to pay if we break it. It is important that people that do this learn from this trend that actions have consequences.
+
+# May 19, 2025
+I am ready for summer there will be lots of stuff i will do
